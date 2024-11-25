@@ -8,13 +8,12 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zrdcmh2wax) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,css,git,github,js,html&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DevHarmonizer&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevHarmonizer&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHarmonizer&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![](https://skillicons.dev/icons?i=java,css,git,github,js,html&theme=dark)](https://skillicons.dev)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
