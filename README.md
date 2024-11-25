@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zrdcmh2wax) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,css,git,github,js,html&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,css,git,js,html&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DevHarmonizer&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
