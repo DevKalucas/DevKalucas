@@ -12,10 +12,6 @@
 *   🧠  Currently im learning Frontend with React + Typescript
 *   🤝  I'm open to collaborating on Basically everthing :)
 
-  <b><big>I also just started training on CodeWars:</big></b><br>
-  
-  <img src="https://www.codewars.com/users/Kalucas/badges/large" alt="CodeWars Badge"/>
-
   <b><big>Here are my GitHub Stats:</big></b><br>
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevKalucas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
