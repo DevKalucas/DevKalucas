@@ -10,7 +10,7 @@
 # 💫 About Me:
 <b><big>My Name is Lucas</big></b>
 
-💼 I currently concentrate more on Web Development, but I still have some private Projects<br>👥 I'm looking to collaborate on basically everything
+💼 I am currently completing an apprenticeship as an application developer<br>👥 I'm looking to collaborate on basically everything
 
 
 ## 🌐 Socials:
