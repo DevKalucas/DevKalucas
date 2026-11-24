@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="8" viewBox="0 0 900 8" role="presentation">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="450" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#22D3EE"/><stop offset="0.25" stop-color="#58A6FF"/><stop offset="0.5" stop-color="#A78BFA"/><stop offset="0.75" stop-color="#F472B6"/><stop offset="1" stop-color="#22D3EE"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="450 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect y="2" width="900" height="4" rx="2" fill="url(#g)" opacity="0.9"/>
+  <circle cy="4" r="4" fill="#fff"><animate attributeName="cx" values="0;900" dur="4s" repeatCount="indefinite"/></circle>
+</svg>
