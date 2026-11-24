@@ -17,7 +17,7 @@
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🌈 `~/about`
+## 🤵 `~/about`
 
 ```ts
 // lucas.config.ts
