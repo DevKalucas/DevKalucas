@@ -121,6 +121,12 @@ export const lucas = {
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DevKalucas/DevKalucas/output/github-snake.svg" alt="Contribution snake" width="100%"/>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=3" width="100%" height="4" alt="divider"/>
 
 ## 💡 `~/quote`
